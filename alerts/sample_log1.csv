@@ -1,0 +1,4 @@
+timestamp,event_type,user
+2025-12-01 10:00,failed_login,John
+2025-12-01 10:05,successful_login,Mary
+2025-12-01 11:00,failed_login,John

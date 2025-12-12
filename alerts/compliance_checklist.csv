@@ -1,0 +1,4 @@
+task,status
+Update firewall rules,Incomplete
+Patch OS vulnerabilities,Complete
+Check password policy,Incomplete
